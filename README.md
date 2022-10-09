@@ -28,11 +28,11 @@ IN ORDER TO CREATE TABLES USE THIS FILE [tables](https://github.com/jahan123zafa
 ## Views and Stored Procedures
 IN ORDER TO CREATE TABLES USE THIS FILE [tables](https://github.com/jahan123zafar/school_database/blob/main/Views_and_stored_procedures.sql)
 - ```student_exams_results``` - this stored procedure will report about the students exams he has appeared in and the marks he has scored. Here is the screenshot:
-![stored-procedure.png](https://postimg.cc/v1BHf5Gs)
+[![stored-procedure.png](https://i.postimg.cc/xdGJrP7c/stored-procedure.png)](https://postimg.cc/v1BHf5Gs)
 - ```after_due_invoices``` - this view shows all the invoices that have not been paid with their fine calculated. Here is the screenshot:
 [![AFTER-DUE-INVOICES.png](https://i.postimg.cc/DZV9Gryd/AFTER-DUE-INVOICES.png)](https://postimg.cc/hJrZW7mf)
 - ```failed_students``` - this view shows all the students who have failed or got a U grade. Here is the screenshot:
-![failed-students.png](https://postimg.cc/9DcG3gYY)
+[![failed-students.png](https://i.postimg.cc/VkC4C3Sp/failed-students.png)](https://postimg.cc/9DcG3gYY)
 
 ## Feedback
 
